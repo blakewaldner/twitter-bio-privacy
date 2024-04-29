@@ -1,0 +1,4 @@
+{
+  "delay":"950",
+  "listID":**REDACTED LIST ID**
+}
